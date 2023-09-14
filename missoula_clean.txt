@@ -67,6 +67,19 @@ Missoulian	2015-10-21	MMAC 120: Secrest's sculptures reference past, present
 Missoulian	2015-10-21	Oct. 21, 1969
 Missoulian	2015-10-21	Prep Extra: Sentinel's Marshall Beatty is in firm control on race day
 Missoulian	2015-10-21	Timber sales resume near Whitefish after grizzly bear habitat settlement approved
+Missoulian	2015-10-28	Artist Isabelle Johnson bucked tradition, introduced modernism to students
+Missoulian	2015-10-28	Billings Clinic increases security after shooting, does not blame officers
+Missoulian	2015-10-28	Boyfriend takes distrust to frightening extremes
+Missoulian	2015-10-28	Ed McCarthy, unofficial king of Anaconda, dies
+Missoulian	2015-10-28	Hillary: It's the sexism, stupid
+Missoulian	2015-10-28	Introducing the new Missoulian.com
+Missoulian	2015-10-28	Maroon-Silver scrimmage: Lady Griz veterans, newcomers entertain home crowd
+Missoulian	2015-10-28	Michael Earl Craig named next Montana poet laureate
+Missoulian	2015-10-28	Montana PSC seeks to maintain jurisdiction over Mountain Water purchase
+Missoulian	2015-10-28	Monthly artTALKs series pairs established, emerging artists in dialogue
+Missoulian	2015-10-28	Restoration effort connects Modesty Creek to Clark Fork River for first time in 60 years
+Missoulian	2015-10-28	Send Missoulian events for Halloween listing
+Missoulian	2015-10-28	Wright, Breunig lead Griz in Maroon-Silver scrimmage
 Missoulian	2015-11-04	'Tall building lawyers' in court with Carlyle director
 Missoulian	2015-11-04	2 Billings City Council incumbents lose to challengers; Cromley keeps seat
 Missoulian	2015-11-04	Around the Big Sky
@@ -1199,16 +1212,3 @@ Missoulian	2016-09-21	Rand Paul to be in Davenport next Tuesday
 Missoulian	2016-09-21	Santorum touts hardline immigration enforcement in Sioux City
 Missoulian	2016-09-21	Team Trump Montana not getting much support from state GOP and vice versa
 Missoulian	2016-09-21	Trump draws fans out on campaign stop in Waterloo
-Missoulian	2015-10-28	Artist Isabelle Johnson bucked tradition, introduced modernism to students
-Missoulian	2015-10-28	Billings Clinic increases security after shooting, does not blame officers
-Missoulian	2015-10-28	Boyfriend takes distrust to frightening extremes
-Missoulian	2015-10-28	Ed McCarthy, unofficial king of Anaconda, dies
-Missoulian	2015-10-28	Hillary: It's the sexism, stupid
-Missoulian	2015-10-28	Introducing the new Missoulian.com
-Missoulian	2015-10-28	Maroon-Silver scrimmage: Lady Griz veterans, newcomers entertain home crowd
-Missoulian	2015-10-28	Michael Earl Craig named next Montana poet laureate
-Missoulian	2015-10-28	Montana PSC seeks to maintain jurisdiction over Mountain Water purchase
-Missoulian	2015-10-28	Monthly artTALKs series pairs established, emerging artists in dialogue
-Missoulian	2015-10-28	Restoration effort connects Modesty Creek to Clark Fork River for first time in 60 years
-Missoulian	2015-10-28	Send Missoulian events for Halloween listing
-Missoulian	2015-10-28	Wright, Breunig lead Griz in Maroon-Silver scrimmage
